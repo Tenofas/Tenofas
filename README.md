@@ -19,7 +19,8 @@ I develop and share **hyper-realistic AI image & video workflows** for ComfyUI.
 
 ### 🌐 Connect
 - **X (Twitter)**: [@tenofaz](https://x.com/tenofaz)
-- **Website**: [tenofas.ai](https://tenofas.ai) *(under construction)*
+- **LinkedIn**: [tenofas](https://www.linkedin.com/in/tenofas/)
+- **Website**: [tenofas.ai](https://tenofas.ai)
 
 ---
 
